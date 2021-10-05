@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color:white;
+font-size: large;
+margin-top: 0;
+}
+p{
+    background-color: gray;
+    color:black;
+    padding: 20px;
+    border: 2px solid white;
+    font-size:large;
+    font-weight: bolder;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding:20px 10px;
+    margin: none;
+    display: inline-block;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color:grey;
+}
+#navigation{
+    margin-left: 30%;
+}
