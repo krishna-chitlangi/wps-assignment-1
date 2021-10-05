@@ -1,0 +1,21 @@
+#result{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    width: 100%;
+
+}
+body{
+    background-color: lightslategray;
+}
+img{
+    padding: 10px;
+
+}
+.mydiv{
+    border: 2px solid black;
+    padding: 10px;
+    background-color:lightgray;
+    margin: 10px;
+}
